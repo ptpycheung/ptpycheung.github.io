@@ -1,2 +1,2 @@
 # Personal Blog for Yuenwing Cheung
-[小论文](https://kns.cnki.net/KXReader/Detail?invoice=L%2FVGDJP0K69ZjnFyilJe006ILJIZLaBx%2Fj61u8QxTJ1dq5zqiJBl5zuAbg02iILsi6rVi6J8CfhunIyxKkA9fR78X5dGkNfq6Nw%2FCAjtYFq6t%2Fu%2BLsFfLtYGfm9NXdsx%2BqN2mb%2FwHv1oeZvSO130wMcEXjSL5kEd7vabMpwXr%2FA%3D&DBCODE=CJFD&FileName=TZCY202123008&TABLEName=cjfdlast2022&nonce=261791067BC347EBB3154719CE91170F&uid=&TIMESTAMP=1655480851122)
+[小论文](https://www.kdocs.cn/l/crDWmkWdTgPB?f=201)

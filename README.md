@@ -1,2 +1,2 @@
 # Personal Blog for Yuenwing Cheung
-[小论文](https://mail.qq.com/cgi-bin/download?mailid=ZL0017_ghTN51CMZU4uhtwAysVCTc6&filename=%C9%CF%CA%D0%B9%AB%CB%BE%CD%AC%D2%B5%B2%A2%B9%BA%B6%CC%C6%DA%BC%A8%D0%A7%B7%D6%CE%F6%A1%AA%A1%AA%D2%D4%CC%EC%C9%BD%B9%C9%B7%DD%CE%AA%C0%FD_%D5%C5%D4%B4%C8%D9.pdf&sid=Qdezf8hczeZKOWMB)
+[小论文](file:///C:/Users/zhangyr/Desktop/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%90%8C%E4%B8%9A%E5%B9%B6%E8%B4%AD%E7%9F%AD%E6%9C%9F%E7%BB%A9%E6%95%88%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E4%BB%A5%E5%A4%A9%E5%B1%B1%E8%82%A1%E4%BB%BD%E4%B8%BA%E4%BE%8B_%E5%BC%A0%E6%BA%90%E8%8D%A3.html)

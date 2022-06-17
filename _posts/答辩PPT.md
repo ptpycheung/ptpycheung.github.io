@@ -7,6 +7,7 @@ category: example
 
 &emsp;
 
+- [学位论文答辩PPT](https://www.kdocs.cn/l/cpC4hT9akPU2)
 - [Stata 数据标签和合并](https://www.lianxh.cn/news/3b91400dd874e.html)
 - [Stata 日期格式转换](https://www.lianxh.cn/news/14538b2dcab13.html)
 - [DAG-有向无环图：如何用LaTeX快速绘制](https://www.lianxh.cn/news/441adb1c58084.html)

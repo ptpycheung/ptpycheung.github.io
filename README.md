@@ -11,4 +11,4 @@
 
 [zlibrary](https://a.fuyeor.com/to-zlibrary)
 
-[github加速器](https://github.com/dotnetcore/fastgithub/releases)
+[github加速器](https://github.com/dotnetcore/fastgithub/releases)+[资料来源](https://zhuanlan.zhihu.com/p/428454772)

@@ -12,3 +12,5 @@
 [zlibrary](https://a.fuyeor.com/to-zlibrary)
 
 [github加速器](https://github.com/dotnetcore/fastgithub/releases)+[资料来源](https://zhuanlan.zhihu.com/p/428454772)
+
+[vscode+stata](https://www.lianxh.cn/news/40a28448f42f4.html)+[链接1](https://blog.csdn.net/qq_42771083/article/details/106076319)+[链接2](https://www.codenong.com/cs105667083/)

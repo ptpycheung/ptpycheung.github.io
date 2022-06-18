@@ -10,3 +10,5 @@
 [Latex工作室](https://www.latexstudio.net/)
 
 [zlibrary](https://a.fuyeor.com/to-zlibrary)
+
+[github加速器](https://github.com/dotnetcore/fastgithub/releases)

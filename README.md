@@ -8,3 +8,5 @@
 [visio专业版2021激活码](https://zhuanlan.zhihu.com/p/524429877)
 
 [Latex工作室](https://www.latexstudio.net/)
+
+[zlibrary](https://a.fuyeor.com/to-zlibrary)

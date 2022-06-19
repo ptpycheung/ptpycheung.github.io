@@ -2,18 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 一些链接
+  - title: LinkLinkLink
     entries:
       - title: Email
         url: mailto:1512814486@qq.com
-      - title: 我的B站主页
+      - title: bilibili
         url: https://space.bilibili.com/585154379?spm_id_from=333.1007.0.0
-      - title: 我的GitHub主页
+      - title: GitHub
         url: https://github.com/ptpycheung
-      - title: 连享会主页
+      - title: lianxh
         url: https://www.lianxh.cn/
 
-  - title: 相关内容
+  - title: seeseesee
     post_list:
       limit: 5
       show_more: false

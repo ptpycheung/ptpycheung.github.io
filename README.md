@@ -1,7 +1,7 @@
 # Personal Blog for Yuenwing Cheung
 [小论文](https://www.kdocs.cn/l/crDWmkWdTgPB?f=201)
 
-[3.2 医药制造业股权激励实施现状](https://www.doc88.com/p-04361517942211.html?r=1)
+[3.2 医药制造业股权激励实施现状](https://www.doc88.com/p-04361517942211.html?r=1)+[链接1](https://www.docin.com/p-2466787740.html)+[链接2](http://www.southmoney.com/shuju/15275.html)
 
 [visio专业版2021激活码](https://zhuanlan.zhihu.com/p/524429877)
 

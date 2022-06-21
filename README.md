@@ -13,7 +13,7 @@
 
 [vscode+stata](https://www.lianxh.cn/news/40a28448f42f4.html)+[链接1](https://blog.csdn.net/qq_42771083/article/details/106076319)+[链接2](https://www.codenong.com/cs105667083/)
 
-[案例论文学习](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KJYJ202203010&uniplatform=NZKPT&v=_yeCeUVn9yolZJrcpPFtNs_9BB1FUIwBa96okkJgLRkmoS7q35ZtUiSgJ-v2MISz)
+[案例论文1](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KJYJ202203010&uniplatform=NZKPT&v=_yeCeUVn9yolZJrcpPFtNs_9BB1FUIwBa96okkJgLRkmoS7q35ZtUiSgJ-v2MISz)+[案例论文2](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=KJYJ202001013&uniplatform=NZKPT&v=Ud-9KsavduQHO7sgkOJjtUIAUprHh2jsQUywv97q_mSX4m8E8zxRqt5spbK_31No)
 
 [非高管核心员工](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=JRYJ202203010&uniplatform=NZKPT&v=CI8293MofWPbgNA8XN9R1zBv9_9DxSJ8UQMKpezae3e8Eb4Ld8vnNJyUw5aqdFcx)+[链接1](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=JJGU201703009&uniplatform=NZKPT&v=uanmJIxZkzJKe0QvIXkavRvcTpESBBI3KQs1a07wiNwFF9RcHah2JraHDvwUJ2px)+[链接2](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=KJYJ202112010&uniplatform=NZKPT&v=QN9HGNXZmCHPAWNAlLCTrISQJufipQMNeNqxlmRedqFXY3k_NWgsz1Fjie0KvZ6j)+[股权激励未看新文献](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=JXSZ20220616001&uniplatform=NZKPT&v=jtyjrZkdMfwNsKPqN2rtkq6kvIGfDK9wgfPtLmjaW3dRlHgy90RSkH-23JQOnhyo)
 

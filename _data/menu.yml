@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: LinkLinkLink
+  - title: Link
     entries:
       - title: Email
         url: mailto:1512814486@qq.com
@@ -12,10 +12,10 @@ entries:
         url: https://github.com/ptpycheung
       - title: lianxh
         url: https://www.lianxh.cn/
-      - title: 放松下
+      - title: MarkLui
         url: https://music.163.com/#/song?id=94663&market=baiduqk
 
-  - title: SeeSeeSee
+  - title: Content
     post_list:
       limit: 5
       show_more: false

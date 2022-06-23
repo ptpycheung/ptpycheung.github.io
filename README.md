@@ -11,7 +11,7 @@
 
 [github加速器](https://github.com/dotnetcore/fastgithub/releases)+[资料来源](https://zhuanlan.zhihu.com/p/428454772)
 
-[vscode+stata](https://www.lianxh.cn/news/40a28448f42f4.html)
+[vscode+stata](https://www.lianxh.cn/news/40a28448f42f4.html)+[松柏林](https://www.jianshu.com/p/4a0e29f6b63a)
 
 [案例论文1](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KJYJ202203010&uniplatform=NZKPT&v=_yeCeUVn9yolZJrcpPFtNs_9BB1FUIwBa96okkJgLRkmoS7q35ZtUiSgJ-v2MISz)+[案例论文2](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=KJYJ202001013&uniplatform=NZKPT&v=Ud-9KsavduQHO7sgkOJjtUIAUprHh2jsQUywv97q_mSX4m8E8zxRqt5spbK_31No)
 

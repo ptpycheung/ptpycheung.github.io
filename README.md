@@ -1,4 +1,8 @@
 # Personal Blog for Yuenwing Cheung
+
+[连享会推文助教小组](https://gitee.com/Stata002/BAT)+[知乎vscode](https://zhuanlan.zhihu.com/p/106057556)
+
+
 [小论文](https://www.kdocs.cn/l/crDWmkWdTgPB?f=201)
 
 [3.2 医药制造业股权激励实施现状](https://www.doc88.com/p-04361517942211.html?r=1)+[链接1](https://www.docin.com/p-2466787740.html)+[链接2](http://www.southmoney.com/shuju/15275.html)

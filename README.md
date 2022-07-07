@@ -4,6 +4,7 @@
 
 [profile](https://zhuanlan.zhihu.com/p/50554434?from_voters_page=true)+[链接2](https://www.lianxh.cn/news/f1fe693db363c.html)
 
+[变量存储类型和显示格式](http://t.zoukankan.com/Sunnykeke-p-15123993.html)
 
 [小论文](https://www.kdocs.cn/l/crDWmkWdTgPB?f=201)
 

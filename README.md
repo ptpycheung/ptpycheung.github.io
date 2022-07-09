@@ -1,6 +1,6 @@
 # Personal Blog for Yuenwing Cheung
 
-[连享会推文助教小组](https://gitee.com/Stata002/BAT)+[知乎vscode](https://zhuanlan.zhihu.com/p/106057556)
+[连享会工作平台](https://gitee.com/Stata002)+[连享会推文助教小组](https://gitee.com/Stata002/BAT)+[左祥太](https://gitee.com/Stata002/StataSX2018/blob/master/2021TEprog/%E5%B7%A6%E7%A5%A5%E5%A4%AA-%E6%AD%A6%E6%B1%89%E7%BA%BA%E7%BB%87%E5%A4%A7%E5%AD%A6-OK/B053-Stata%E7%BB%98%E5%9B%BE%EF%BC%9A%E6%9D%A5%E4%B8%80%E6%89%93%E6%BC%82%E4%BA%AE%E7%9A%84Stata%E7%BB%98%E5%9B%BE%E6%A8%A1%E6%9D%BF/%E3%80%90%E6%8E%A8%E6%96%87%E3%80%91B053-Stata%E7%BB%98%E5%9B%BE%EF%BC%9A%E6%9D%A5%E4%B8%80%E6%89%93%E6%BC%82%E4%BA%AE%E7%9A%84Stata%E7%BB%98%E5%9B%BE%E6%A8%A1%E6%9D%BF.md#https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fasjadnaqvi%2FStata-schemes)+[知乎vscode](https://zhuanlan.zhihu.com/p/106057556)
 
 [profile](https://zhuanlan.zhihu.com/p/50554434?from_voters_page=true)+[链接2](https://www.lianxh.cn/news/f1fe693db363c.html)
 

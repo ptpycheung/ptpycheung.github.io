@@ -4,6 +4,8 @@
 
 [profile](https://zhuanlan.zhihu.com/p/50554434?from_voters_page=true)+[链接2](https://www.lianxh.cn/news/f1fe693db363c.html)
 
+[Typora+PicGo+阿里云OSS服务(失效)](https://jluvicent.github.io/2022/07/16/Typora+PicGo+%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE.html)
+
 [变量存储类型和显示格式](http://t.zoukankan.com/Sunnykeke-p-15123993.html)
 
 [小论文](https://www.kdocs.cn/l/crDWmkWdTgPB?f=201)

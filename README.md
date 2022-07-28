@@ -6,7 +6,7 @@
 
 [Typora+PicGo+阿里云OSS服务(失效)](https://jluvicent.github.io/2022/07/16/Typora+PicGo+%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE.html)
 
-[DEA专题]+[清华金融MBA医疗器械](http://fmba.pbcsf.tsinghua.edu.cn/index.php?m=content&c=index&a=show&catid=60&id=2113)+[央财医药](file:///C:/Users/zhangyr/Desktop/DEA_%E6%9C%80%E6%96%B0%E5%8F%82%E8%80%83%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87/%E4%B8%AD%E5%9B%BD%E5%8C%BB%E8%8D%AF%E8%A1%8C%E4%B8%9A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%9A%84%E7%BB%A9%E6%95%88...DEA-Tobit%E5%AE%9E%E8%AF%81%E7%A0%94%E7%A9%B6_%E9%99%88%E5%86%B0.pdf)+[DEA入门](https://www.lianxh.cn/news/0e91b6efa06a2.html)+[DEA进阶](https://www.lianxh.cn/news/45464d6ce18f3.html)
+[DEA专题:]+[清华金融MBA医疗器械](http://fmba.pbcsf.tsinghua.edu.cn/index.php?m=content&c=index&a=show&catid=60&id=2113)+[DEA入门](https://www.lianxh.cn/news/0e91b6efa06a2.html)+[DEA进阶](https://www.lianxh.cn/news/45464d6ce18f3.html)
 
 [变量存储类型和显示格式](http://t.zoukankan.com/Sunnykeke-p-15123993.html)
 

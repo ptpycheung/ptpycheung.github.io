@@ -6,7 +6,7 @@
 
 [Typora+PicGo+阿里云OSS服务(失效)](https://jluvicent.github.io/2022/07/16/Typora+PicGo+%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE.html)
 
-[DEA专题:]+[清华金融MBA医疗器械](http://fmba.pbcsf.tsinghua.edu.cn/index.php?m=content&c=index&a=show&catid=60&id=2113)+[DEA入门](https://www.lianxh.cn/news/0e91b6efa06a2.html)+[DEA进阶](https://www.lianxh.cn/news/45464d6ce18f3.html)
+[DEA入门](https://www.lianxh.cn/news/0e91b6efa06a2.html)+[DEA进阶](https://www.lianxh.cn/news/45464d6ce18f3.html)+[清华金融MBA医疗器械](http://fmba.pbcsf.tsinghua.edu.cn/index.php?m=content&c=index&a=show&catid=60&id=2113)
 
 [变量存储类型和显示格式](http://t.zoukankan.com/Sunnykeke-p-15123993.html)
 

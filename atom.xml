@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Personal Blog for Yuenwing Cheung</title>
   
-  
+  <subtitle>for sharing and communicating</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-07T04:32:48.755Z</updated>
+  <updated>2022-12-07T03:07:18.376Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的第一篇博文</title>
-    <link href="http://example.com/2022/12/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
-    <id>http://example.com/2022/12/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</id>
-    <published>2022-12-07T04:24:19.000Z</published>
-    <updated>2022-12-07T04:32:48.755Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hello Hexo！人生苦短，我用Hexo！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Hello Hexo！人生苦短，我用Hexo！&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>

@@ -3,11 +3,11 @@
   <title>Personal Blog for Yuenwing Cheung</title>
   
   <subtitle>for sharing and communicating</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/ptpycheung/ptpycheung.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/ptpycheung/ptpycheung.github.io/"/>
   <updated>2022-12-07T08:19:40.873Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/ptpycheung/ptpycheung.github.io/</id>
   
   <author>
     <name>Yuenwing Cheung</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>经管博客</title>
-    <link href="http://example.com/2022/12/07/%E7%BB%8F%E7%AE%A1%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2022/12/07/%E7%BB%8F%E7%AE%A1%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://github.com/ptpycheung/ptpycheung.github.io/2022/12/07/%E7%BB%8F%E7%AE%A1%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/ptpycheung/ptpycheung.github.io/2022/12/07/%E7%BB%8F%E7%AE%A1%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-12-07T08:18:52.000Z</published>
     <updated>2022-12-07T08:19:40.873Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>我的第一篇博文</title>
-    <link href="http://example.com/2022/12/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
-    <id>http://example.com/2022/12/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</id>
+    <link href="https://github.com/ptpycheung/ptpycheung.github.io/2022/12/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
+    <id>https://github.com/ptpycheung/ptpycheung.github.io/2022/12/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</id>
     <published>2022-12-07T04:24:19.000Z</published>
     <updated>2022-12-07T04:32:48.755Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/12/07/hello-world/"/>
-    <id>http://example.com/2022/12/07/hello-world/</id>
+    <link href="https://github.com/ptpycheung/ptpycheung.github.io/2022/12/07/hello-world/"/>
+    <id>https://github.com/ptpycheung/ptpycheung.github.io/2022/12/07/hello-world/</id>
     <published>2022-12-07T03:07:18.376Z</published>
     <updated>2022-12-07T03:07:18.376Z</updated>
     

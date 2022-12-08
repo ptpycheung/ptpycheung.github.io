@@ -1,3 +1,11 @@
+.post-body a:not(.btn) {
+  color: #3296fa;
+  border-bottom: none;
+}
+.post-body a:not(.btn):hover {
+  color: #0593d3;
+  text-decoration: underline;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
@@ -222,14 +230,6 @@ figure.highlight {
 .page pre .javascript .function::selection {
   background: rgba(128,203,196,0.251);
   color: #525252;
-}
-.post-body a:not(.btn) {
-  color: #3296fa;
-  border-bottom: none;
-}
-.post-body a:not(.btn):hover {
-  color: #0593d3;
-  text-decoration: underline;
 }
 * {
   -webkit-text-size-adjust: none;

@@ -1,8 +1,0 @@
-.post-body a:not(.btn) {
-  color: #3296fa;
-  border-bottom: none;
-}
-.post-body a:not(.btn):hover {
-  color: #0593d3;
-  text-decoration: underline;
-}

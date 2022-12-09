@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Personal Blog for Yuenwing Cheung</title>
+  <title>Personal Blog</title>
   
   <subtitle>for sharing and communicating</subtitle>
   <link href="https://ptpycheung.github.io/atom.xml" rel="self"/>

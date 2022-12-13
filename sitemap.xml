@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ptpycheung.github.io/Blog/index.html</loc>
+    
+    <lastmod>2022-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ptpycheung.github.io/Bilibili-Video/index.html</loc>
     
     <lastmod>2022-12-13</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://ptpycheung.github.io/index.html</loc>
     
     <lastmod>2022-12-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ptpycheung.github.io/Blog/index.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

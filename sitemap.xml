@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ptpycheung.github.io/WeChat-Tweet/index.html</loc>
+    
+    <lastmod>2022-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ptpycheung.github.io/Bilibili-Video/index.html</loc>
+    
+    <lastmod>2022-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ptpycheung.github.io/index.html</loc>
     
     <lastmod>2022-12-10</lastmod>
@@ -67,7 +85,7 @@
 
   <url>
     <loc>https://ptpycheung.github.io/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
